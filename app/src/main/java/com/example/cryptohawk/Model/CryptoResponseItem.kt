@@ -1,4 +1,4 @@
-package Model
+package com.example.cryptohawk.Model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

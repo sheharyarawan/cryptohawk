@@ -1,4 +1,4 @@
-package Model
+package com.example.cryptohawk.Model
 
 data class ChartResponse(
     val market_caps: List<List<Double>>,

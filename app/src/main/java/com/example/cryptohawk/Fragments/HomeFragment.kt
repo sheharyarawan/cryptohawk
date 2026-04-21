@@ -1,4 +1,4 @@
-package Fragments
+package com.example.cryptohawk.Fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

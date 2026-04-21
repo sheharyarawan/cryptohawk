@@ -1,4 +1,4 @@
-package Model
+package com.example.cryptohawk.Model
 
 data class MarketCapPercentage(
     val bnb: Double,
