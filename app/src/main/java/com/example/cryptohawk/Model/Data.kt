@@ -1,4 +1,4 @@
-package Model
+package com.example.cryptohawk.Model
 
 data class Data(
     val active_cryptocurrencies: Int,

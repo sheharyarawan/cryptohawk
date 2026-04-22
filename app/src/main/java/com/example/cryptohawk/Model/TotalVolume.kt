@@ -1,6 +1,6 @@
-package Model
+package com.example.cryptohawk.Model
 
-data class TotalMarketCap(
+data class TotalVolume(
     val aed: Double,
     val ars: Double,
     val aud: Double,
